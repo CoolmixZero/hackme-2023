@@ -7,6 +7,7 @@ from torch.utils.data import Dataset, DataLoader
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
 
+
 # Define the neural network architecture
 class Net(nn.Module):
     def __init__(self):
@@ -26,6 +27,7 @@ class Net(nn.Module):
         x = self.sigmoid(x)
         return x
 
+
 # Define the dataset class
 class CustomDataset(Dataset):
     def __init__(self, X, y):
@@ -38,12 +40,13 @@ class CustomDataset(Dataset):
     def __getitem__(self, idx):
         return self.X[idx], self.y[idx]
 
+
 # Load the dataset
 data = pd.read_csv('dataset.csv')
 
 # Preprocessing
 data.dropna(inplace=True)
-data = pd.get_dummies(data) # Encode categorical variables
+data = pd.get_dummies(data)  # Encode categorical variables
 X = data.drop('breach', axis=1)
 y = data['breach']
 
@@ -84,7 +87,7 @@ for epoch in range(num_epochs):
 
         running_loss += loss.item()
 
-    print('Epoch {} loss: {:.3f}'.format(epoch+1, running_loss/len(train_dataloader)))
+    print('Epoch {} loss: {:.3f}'.format(epoch + 1, running_loss / len(train_dataloader)))
 
 # Evaluate the neural network
 y_pred = []
