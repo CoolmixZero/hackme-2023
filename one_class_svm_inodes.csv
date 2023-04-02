@@ -1,0 +1,49 @@
+,inode,filename,M,A,C,B,file_stat,NTFS_file_stat,file_entry_shell_item,NTFS_USN_change,filef,directory,link,dir_appdata,dir_win,dir_user,dir_other,file_executable,file_graphic,file_documents,file_ps,file_other,mft,lnk_shell_items,olecf_olecf_automatic_destinations/lnk/shell_items,winreg_bagmru/shell_items,usnjrnl,is_allocated1,is_allocated0
+0,0,NTFS:\$MFT,268659,268659,268659,268659,2,443139,0,0,2,0,0,0,0,0,443141,2653,974,93,0,439421,443139,0,0,0,0,191,0
+1,1,NTFS:\$MFTMirr,18,18,18,18,2,16,0,0,2,0,0,0,0,0,18,0,0,0,0,18,16,0,0,0,0,0,0
+10515,19401,NTFS:\BOOTNXT,1,1,1,1,4,0,0,0,4,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,4,0
+10532,19411,NTFS:\bootmgr,1,1,1,1,4,0,0,0,4,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,4,0
+10800,19534,NTFS:\Windows\WinSxS\amd64_microsoft.windows.powershell.common_31bf3856ad364e35_6.3.9600.16384_none_219db062ef302354\Windows PowerShell (x86).lnk,6,6,1,6,3,0,9,0,3,0,0,0,12,0,0,2,0,0,0,10,0,9,0,0,0,3,0
+10801,19535,NTFS:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell (x86).lnk,6,6,1,6,3,0,9,0,3,0,0,0,12,0,0,2,0,0,0,10,0,9,0,0,0,3,0
+10807,19539,NTFS:\Windows\WinSxS\amd64_microsoft.windows.powershell.common_31bf3856ad364e35_6.3.9600.16384_none_219db062ef302354\Windows PowerShell.lnk,6,6,1,6,3,0,9,0,3,0,0,0,12,0,0,2,0,0,0,10,0,9,0,0,0,3,0
+10809,19540,NTFS:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Windows PowerShell.lnk,6,6,1,6,3,0,9,0,3,0,0,0,12,0,0,2,0,0,0,10,0,9,0,0,0,3,0
+10873,19586,NTFS:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group2\desktop.ini,1,1,1,1,4,0,0,0,4,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0
+10946,19628,NTFS:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\desktop.ini,1,1,1,1,4,0,0,0,4,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0
+10958,19635,NTFS:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\desktop.ini,1,1,1,1,4,0,0,0,4,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0
+11005,19665,NTFS:\Users\Public\Desktop\desktop.ini,1,1,1,1,4,0,0,0,4,0,0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,4,0
+12164,20377,NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\appsFolder.itemdata,1,1,1,1,4,0,0,0,4,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0
+12276,20479,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Launch Internet Explorer Browser.lnk,4,4,1,4,1,0,5,0,1,0,0,6,0,0,0,1,0,0,0,5,0,5,0,0,0,1,0
+18401,23746,NTFS:\Users\Default\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini,1,1,1,1,4,0,0,0,4,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0
+18446,23780,NTFS:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini,1,1,1,1,4,0,0,0,4,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0
+18460,23791,NTFS:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\desktop.ini,1,1,1,1,4,0,0,0,4,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0
+34109,32,NTFS:\$Extend\$RmMetadata\$TxfLog\$TxfLog.blf,2,2,2,2,4,0,0,0,4,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,4,0
+36992,33,NTFS:\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000001,2,2,2,2,4,0,0,0,4,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,4,0
+87311,73274,NTFS:\Program Files\Internet Explorer\iediagcmd.exe,1,1,1,1,4,0,0,0,4,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,4,0
+87778,73490,NTFS:\ProgramData\Microsoft\User Account Pictures\user.bmp,1,1,1,1,4,0,0,0,4,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,4,0
+87779,73491,NTFS:\ProgramData\Microsoft\User Account Pictures\guest.bmp,1,1,1,1,4,0,0,0,4,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,4,0
+87858,73532,NTFS:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\desktop.ini,1,1,1,1,4,0,0,0,4,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,4,0
+88068,73635,NTFS:\$Recycle.Bin\S,1,1,1,1,3,0,0,0,3,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,3,0
+107762,84630,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\PortalGunPlans.lnk,4,4,1,4,2,0,6,0,2,0,0,8,0,0,0,0,0,0,0,8,0,6,0,0,0,2,0
+107791,84656,NTFS:\$Extend\$UsnJrnl:$J,0,0,82085,0,0,0,0,82085,0,0,0,0,0,0,82085,1905,104,183,0,79893,0,0,0,0,82085,0,0
+108026,84873,NTFS:\Users\Administrator\Videos,1,1,1,1,4,0,0,0,0,4,0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0
+108029,84876,NTFS:\Users\Administrator\Pictures,1,1,1,1,4,0,0,0,0,4,0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0
+108045,84890,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools,1,1,1,1,4,0,0,0,0,4,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+108046,84891,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance,1,1,1,1,4,0,0,0,0,4,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+108047,84892,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories,1,1,1,1,4,0,0,0,0,4,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+108048,84893,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility,1,1,1,1,4,0,0,0,0,4,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+108049,84894,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\SendTo,1,1,1,1,4,0,0,0,0,4,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+108062,84905,NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\WinX\Group3,1,1,1,1,4,0,0,0,0,4,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+108152,84987,NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat,17,17,1,17,3,0,29,0,3,0,0,32,0,0,0,0,0,0,0,32,0,0,0,29,0,3,0
+108197,85025,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Internet Explorer.lnk,4,4,1,4,2,0,5,0,2,0,0,7,0,0,0,1,0,0,0,6,0,5,0,0,0,2,0
+108301,85118,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows PowerShell.lnk,6,6,1,6,2,0,9,0,2,0,0,11,0,0,0,2,0,0,0,9,0,9,0,0,0,2,0
+109267,86,NTFS:\Boot\memtest.exe,1,1,1,1,3,0,0,0,3,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,3,0
+110322,86968,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\9b9cdc69c1c24e2b.automaticDestinations,10,10,1,8,3,0,9,0,3,0,0,12,0,0,0,0,0,1,0,11,0,0,9,0,0,3,0
+110325,86970,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations,3,3,1,3,3,0,2,0,3,0,0,5,0,0,0,0,0,0,0,5,0,0,2,0,0,3,0
+110326,86971,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\NoJerry.lnk,4,4,1,4,2,0,6,0,2,0,0,8,0,0,0,0,0,2,0,6,0,6,0,0,0,2,0
+110330,86975,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\Secret.lnk,3,3,1,3,2,0,4,0,2,0,0,6,0,0,0,0,0,0,0,6,0,4,0,0,0,2,0
+110427,87060,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\Szechuan Sauce.lnk,4,4,1,4,2,0,6,0,2,0,0,8,0,0,0,0,0,0,0,8,0,6,0,0,0,2,0
+110430,87064,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\SECRET_beth.lnk,4,4,1,4,2,0,6,0,2,0,0,8,0,0,0,0,0,0,0,8,0,6,0,0,0,2,0
+110458,87092,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\28c8b86deab549a1.customDestinations,4,4,1,4,2,0,5,0,2,0,0,7,0,0,0,1,0,0,0,6,0,0,0,0,0,2,0
+110482,87112,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\Beth_Secret.lnk,4,4,1,4,1,0,5,0,1,0,0,6,0,0,0,0,0,0,0,6,0,5,0,0,0,1,0
+110502,87130,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\1bc392b8e104a00e.automaticDestinations,4,4,1,4,2,0,6,0,2,0,0,8,0,0,0,2,0,0,0,6,0,0,6,0,0,2,0
+110519,87146,NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\590aee7bdd69b59b.customDestinations,13,13,1,13,2,0,24,0,2,0,0,26,0,0,0,3,0,0,0,23,0,0,0,0,0,2,0
